@@ -30,13 +30,12 @@ You must use Pandas to answer the following questions:
 
 Use the starter code in the file `demographic_data_anaylizer`. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
-Unit tests are written for you under `test_module.py`.
+The unit tests for this project are in `test_module.py`. We imported the tests from `test_module.py` to `main.py` for your convenience. 
 
 
 ### Development
 
-For development, you can use `main.py` to test your functions. Click the "run" button and `main.py` will run.
-
+Write your code in `demographic_data_analyzer.py`. For development, you can use `main.py` to test your code.
 
 ### Dataset Source
 
